@@ -19,6 +19,11 @@ Here are some screenshots from the application:
 ![Screenshot3](./Screenshot_20250409_183623_com.example.safty_metro.jpg)
 ![Screenshot4](./Screenshot_20250409_183645_com.example.safty_metro.jpg)
 ![Screenshot5](./Screenshot_20250409_183649_com.example.safty_metro.jpg)
+![Screenshot6](./Screenshot_20250409_183709_com.example.safty_metro.jpg)
+![Screenshot7](./Screenshot_20250409_183711_com.example.safty_metro.jpg)
+![Screenshot8](./Screenshot_20250409_183722_com.example.safty_metro.jpg)
+![Screenshot9](./Screenshot_20250409_183730_com.example.safty_metro.jpg)
+![Screenshot10](./Screenshot_20250409_183747_com.example.safty_metro.jpg)
 
 ---
 
