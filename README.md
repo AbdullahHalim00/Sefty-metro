@@ -1,21 +1,34 @@
-<<<<<<< HEAD
-# safty_metro
+# Sefty-metro
 
-A new Flutter project.
+A mobile app for the Egyptian Metro that allows users to:
+- Buy tickets.
+- Find the nearest metro station via Google Maps.
+- Save customer data using Firebase.
+- Automatically calculate and deduct taxes.
+- Support payments through Visa or Fawry via Paymob.
+- Issue tickets via NFC or QR Code scanning and deduct trip amounts.
+
+---
+
+## App Screenshots
+
+Here are some screenshots from the application:
+
+![Screenshot1](./Screenshot_20250409_183219_com.example.safty_metro.jpg)
+![Screenshot2](./Screenshot_20250409_183228_com.example.safty_metro.jpg)
+![Screenshot3](./Screenshot_20250409_183623_com.example.safty_metro.jpg)
+![Screenshot4](./Screenshot_20250409_183645_com.example.safty_metro.jpg)
+![Screenshot5](./Screenshot_20250409_183649_com.example.safty_metro.jpg)
+
+---
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
+Useful resources to get you started:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Sefty-metro
-A mobile app for the Egyptian Metro that allows users to buy tickets, find the nearest metro station via Google Maps, and save customer data using Firebase. It automatically calculates and deducts taxes, supports payments through Visa or Fawry via Paymob, and issues tickets for use via NFC or QR Code scanning, deducting the trip amount
->>>>>>> b1c9b976ca0e39b813945ea3e3bec957098cb12d
+For help with Flutter development:
+- [Flutter Documentation](https://docs.flutter.dev/)
