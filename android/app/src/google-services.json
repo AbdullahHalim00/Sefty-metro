@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403087284289",
+    "project_id": "metro-92a74",
+    "storage_bucket": "metro-92a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403087284289:android:6b5a18a2f6d518032d8ec0",
+        "android_client_info": {
+          "package_name": "com.example.safty_metro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403087284289-d1j4i21o8psiarva74d8v0qgm1f8c260.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVSxS61cnWYM_6GIjnHK6QOnJelErAoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403087284289-d1j4i21o8psiarva74d8v0qgm1f8c260.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
